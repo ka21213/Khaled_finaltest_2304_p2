@@ -45,16 +45,6 @@ Khaled_finaltest_2304_p2/
   This file is used as the template for the about page of the web app.
 
 ---
-## How to Run the Project
-### 1. Install Flask
-```bash
-pip install flask
-2. Run the app
-python app.py
-3. Open in browser
-http://127.0.0.1:5000/
-Reflection
-
 In this project, I learned how to use GitHub for version control and how to build a simple Flask web application.
 
 What I practiced:
@@ -63,4 +53,18 @@ Managing files and folders
 Creating milestones and issues
 Using Flask routing and templates
 Organizing a basic web project structure
+
+---
+## How to Run the Project
+### 1. Install Flask
+```bash
+pip install flask
+
+2. Run the app
+python app.py
+3. Open in browser
+http://127.0.0.1:5000/
+Reflection
+
+
 
