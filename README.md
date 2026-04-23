@@ -45,26 +45,22 @@ Khaled_finaltest_2304_p2/
   This file is used as the template for the about page of the web app.
 
 ---
-In this project, I learned how to use GitHub for version control and how to build a simple Flask web application.
+## Reflection
 
-What I practiced:
-Creating a GitHub repository
-Managing files and folders
-Creating milestones and issues
-Using Flask routing and templates
-Organizing a basic web project structure
+In this project, I practiced version control using GitHub by creating a repository, managing milestones, and tracking issues.
 
+### What I learned:
+- How to create and structure a repository
+- How to use milestones for project tracking
+- How to create and assign issues
+- How to link tasks to milestones
+- How to clone a public repository locally
+
+### Instructions summary:
+1. Created a GitHub repository
+2. Added README and description
+3. Created milestone with due date
+4. Created and assigned two issues
+5. Cloned a public repository for practice
 ---
-## How to Run the Project
-### 1. Install Flask
-```bash
-pip install flask
-
-2. Run the app
-python app.py
-3. Open in browser
-http://127.0.0.1:5000/
-Reflection
-
-
 
